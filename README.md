@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alebarre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1&custom_title=General%20Stats" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alebarre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=false&order=2&custom_title=Languages" height="160" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=alebarre&theme=dracula&column=4&row=2&margin-w=6&margin-h=7&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alebarre&radius=100&theme=gruvbox&area=false&order=5" height="315" width="1200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alebarre&radius=100&theme=gruvbox&area=false&order=5" height="315" width="1300" alt="activity-graph graph"  />
 </div>
 
 ###
