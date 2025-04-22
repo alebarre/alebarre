@@ -4,8 +4,6 @@
 
 <p align="left">Java, Spring Boot, Angular, and PHP developer with 10 years of experience in<br>developing web applications, working as a full-stack developer in MVC RESTful<br>web applications.<br><br>Fluent in English.<br><br>Can work with international teams, delivering results, discussing<br>solutions, and defending projects.<br><br>My skills include: Java, Spring Boot, Spring Data, JavaScript, Swagger, JUnit,<br>Angular, PHP, HTML, CSS, JQuery, Ajax, MySQL, Oracle, GIT, Docker, RabbitMQ,<br>and Kafka.</p>
 
-###
-
 <h2 align="left">Tecs</h2>
 
 ###
@@ -38,7 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
+
 ###
+
+
 
 <h2 align="left">Stats</h2>
 
